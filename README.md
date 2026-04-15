@@ -1,6 +1,6 @@
 # Card Detector
 
-Sistema de visão computacional para detecção e classificação de cartas em tempo real. O modelo YOLOv8 foi treinado do zero com dataset próprio, capaz de identificar 25 classes diferentes a partir de imagens, vídeos ou câmera ao vivo.
+Sistema de visão computacional para detecção e classificação de cartas em tempo real. O modelo YOLO11s foi treinado do zero com dataset próprio, capaz de identificar 25 classes diferentes a partir de imagens, vídeos ou câmera ao vivo.
 
 ![demo](demo.gif)
 
