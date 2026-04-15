@@ -25,7 +25,7 @@ Sistema de visão computacional para detecção e classificação de cartas em t
 Instale as dependências:
 
 ```bash
-pip install ultralytics opencv-python numpy
+pip install ultralytics
 ```
 
 ---
