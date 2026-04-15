@@ -1,0 +1,16 @@
+# modelo
+*.pt
+*.avi
+*.mp4
+*.zip
+
+# dataset
+Fotos/
+
+# arquivos pesados do treino
+train/weights/
+train/train_batch*.jpg
+train/val_batch*.jpg
+
+# cache python
+__pycache__/
